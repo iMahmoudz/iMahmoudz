@@ -2,7 +2,7 @@
 
 ### Software Engineer Profile
 
-Welcome to my GitHub profile! I am a seasoned software engineer currently affiliated with the Faculty of Computer Science. My proficiency spans Python, C++, and JavaScript, with a focus on cybersecurity, web development, and web data scraping.
+Welcome to my GitHub profile! I am a seasoned software engineer currently affiliated with the Faculty of Computer Science. My proficiency spans Python, Flutter, C++, and JavaScript, with a focus on Mobile app development, cybersecurity, web development, and web data scraping.
 
 ### Skills
 
